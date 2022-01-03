@@ -9,6 +9,7 @@ import './assets/style/iconfont.css'
 // import vueAwesomeSwiper from 'vue-awesome-swiper'
 import 'swiper/dist/css/swiper.css'
 Vue.use(ElementUI)
+console.log(1);
 
 Vue.use(VueAwesomeSwiper, /* { default options with global component } */)
 import './assets/style/index.css'
